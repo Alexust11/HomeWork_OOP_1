@@ -18,6 +18,11 @@ public class Main {
         artem.yearOfBirth = 27;
         artem.town = "Москва";
 
+        max.job = "бренд-менеджер";
+        anna.job = "методист образовательных программ";
+        ket.job = "продакт-менеджер";
+        artem.job = "директор по развитию бизнеса";
+
 
         System.out.println(max.toString());
         System.out.println(anna.toString());
